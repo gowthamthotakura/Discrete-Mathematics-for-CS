@@ -2,12 +2,16 @@
 
 https://www.coursera.org/specializations/discrete-mathematics
 
-Introduction to Graphy Theory
+https://www.coursera.org/learn/basicmathematics
+
+Basic Mathematics
+
+Mathematical Thinking in Computer Science
 
 Combinatories and Probability
 
-Number Theory and Cryptography
+Introduction to Graphy Theory
 
-Mathematical Thinking in Computer Science
+Number Theory and Cryptography
 
 Delivery Problem
